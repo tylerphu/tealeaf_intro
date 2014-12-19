@@ -1,2 +1,1 @@
-Intro to Ruby exercises
-TeaLeaf Academy
+Intro to Ruby exercises - TeaLeaf Academy
