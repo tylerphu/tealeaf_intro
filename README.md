@@ -1,2 +1,2 @@
-tealeaf_intro
-=============
+Intro to Ruby exercises
+TeaLeaf Academy
